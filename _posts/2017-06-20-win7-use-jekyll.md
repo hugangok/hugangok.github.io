@@ -1,6 +1,6 @@
 ---
 layout: post
-title: windows7系统 use jekyll
+title: ' jekyll and prose.io'
 published: true
 ---
 windows7 also can  use jekyll
